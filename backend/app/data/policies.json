@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Unsafe Content",
+        "severity": "HIGH",
+        "weight": 40,
+        "enabled": true
+    },
+    {
+        "id": 2,
+        "name": "Bias & Fairness",
+        "severity": "MEDIUM",
+        "weight": 20,
+        "enabled": true
+    },
+    {
+        "id": 3,
+        "name": "Confidential Information Leakage",
+        "severity": "HIGH",
+        "weight": 35,
+        "enabled": true
+    },
+    {
+        "id": 4,
+        "name": "Hallucination",
+        "severity": "MEDIUM",
+        "weight": 15,
+        "enabled": true
+    },
+    {
+        "id": 5,
+        "name": "Unsupported Claims",
+        "severity": "LOW",
+        "weight": 10,
+        "enabled": true
+    }
+]

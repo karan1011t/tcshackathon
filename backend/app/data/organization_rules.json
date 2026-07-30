@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "organization": "Default",
+        "rule": "Never reveal passwords.",
+        "severity": "HIGH"
+    },
+    {
+        "id": 2,
+        "organization": "Default",
+        "rule": "Never disclose confidential personal information.",
+        "severity": "HIGH"
+    },
+    {
+        "id": 3,
+        "organization": "Healthcare",
+        "rule": "Never diagnose diseases.",
+        "severity": "HIGH"
+    },
+    {
+        "id": 4,
+        "organization": "Finance",
+        "rule": "Never provide personalized investment advice.",
+        "severity": "HIGH"
+    }
+]
